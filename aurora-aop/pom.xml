@@ -9,7 +9,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>aurora-context</artifactId>
+    <artifactId>aurora-aop</artifactId>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
@@ -19,12 +19,19 @@
 
     <dependencies>
         <dependency>
+            <groupId>com.lingengma.aurora</groupId>
+            <artifactId>aurora-context</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+
+        <dependency>
             <groupId>org.slf4j</groupId>
             <artifactId>slf4j-api</artifactId>
         </dependency>
+
         <dependency>
-            <groupId>jakarta.annotation</groupId>
-            <artifactId>jakarta.annotation-api</artifactId>
+            <groupId>net.bytebuddy</groupId>
+            <artifactId>byte-buddy</artifactId>
         </dependency>
     </dependencies>
 
