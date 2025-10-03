@@ -5,6 +5,8 @@
     <file url="file://$PROJECT_DIR$/aurora-aop/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/aurora-context/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/aurora-context/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aurora-jdbc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aurora-jdbc/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/aurora-parent/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/aurora-parent/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />

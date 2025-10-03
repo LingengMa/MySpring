@@ -12,6 +12,7 @@
     <modules>
         <module>aurora-context</module>
         <module>aurora-aop</module>
+        <module>aurora-jdbc</module>
     </modules>
 
     <properties>
